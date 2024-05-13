@@ -18,10 +18,9 @@ Due to this high demand in the emergency departments of many hospitals, there is
 
 **My Project:**
 1. [OVERVIEW](https://github.com/eakadiri/COMM4190-Final-Project---Developing-a-Triage-ChatBot-/blob/master/Overview.ipynb)
-2. [ASSESSING CURRENT LLMS](https://commjhub.asc.upenn.edu/hub/user-redirect/lab/tree/comm4190_S24/COMM4190%20Final%20Project%20-%20Developing%20a%20Triage%20ChatBot%20/Assessing%20Current%20LLMs.ipynb)
-4. [USER PATHWAYS](https://commjhub.asc.upenn.edu/hub/user-redirect/lab/tree/comm4190_S24/COMM4190%20Final%20Project%20-%20Developing%20a%20Triage%20ChatBot%20/User%20Pathways.ipynb)
-5. [EXPLORING TRIAGEBOT](https://commjhub.asc.upenn.edu/hub/user-redirect/lab/tree/comm4190_S24/COMM4190%20Final%20Project%20-%20Developing%20a%20Triage%20ChatBot%20/Exploring%20TriageBot.ipynb)
-
+2. [ASSESSING CURRENT LLMS](https://github.com/eakadiri/COMM4190-Final-Project---Developing-a-Triage-ChatBot-/blob/master/Assessing%20Current%20LLMs.ipynb)
+4. [USER PATHWAYS](https://github.com/eakadiri/COMM4190-Final-Project---Developing-a-Triage-ChatBot-/blob/master/User%20Pathways.ipynb)
+5. [EXPLORING TRIAGEBOT](https://github.com/eakadiri/COMM4190-Final-Project---Developing-a-Triage-ChatBot-/blob/master/Exploring%20TriageBot.ipynb)
 
 ```python
 
