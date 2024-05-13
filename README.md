@@ -1,16 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.16.1
-  kernelspec:
-    display_name: Python 3.11 (COMM4190)
-    language: python
-    name: comm4190
----
 
 # TriageBot: Aritificial Intelligence in Crisis Response & Management 
 **Ebunoluwa Akadiri**
